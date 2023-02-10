@@ -8,11 +8,11 @@ num = eval(input("Number:"))
 if num < 0:
     print("Wrong input.")
 else :
-    print("Number is correct")
+    print("Number is positive")
     if num > 50 :
-        num = num/2
-        print(num)
-    elif num < 50 :
+        x = num/2
+        print(x)
+    else :
         print("Number is less than 50")
     
 
