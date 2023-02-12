@@ -27,6 +27,7 @@ numbers = [45, 67, 34, 76, 23, 90]
 # for i in range(len(numbers)):
 #     print(numbers[i])
 
-numbers.remove(45)
-for i in range(len(numbers)):
-    print(numbers[i])
+# numbers.remove(45)
+# for i in range(len(numbers)):
+#     print(numbers[i])
+print(numbers[2])
