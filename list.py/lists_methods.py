@@ -2,7 +2,7 @@
 #append - adds a no. to the bottom of the list
 #sort - arranges no. in ascending or descending order
 #count - counts no. of times an item has been repeated
-#pop - removes item from list numbers.remove(45)
+#pop - removes item from list eg numbers.remove(45) #Use index only
 #insert
 #remove - removes the 1st occurence of a no.
 numbers = [45, 67, 34, 76, 23, 90]
